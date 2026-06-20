@@ -8,7 +8,7 @@
   "server": {
     "ip": "ArcaDigo.aternos.me",
     "port": 50092,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
